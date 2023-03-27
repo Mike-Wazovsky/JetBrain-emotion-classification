@@ -1,4 +1,7 @@
 # JetBrain-emotion-classification
+
+[Direct link on GoogleCollab](https://colab.research.google.com/github/Mike-Wazovsky/JetBrain-emotion-classification/blob/main/Jetbrains_emotion_classification.ipynb)
+
 The solution lies in the file JetBrains_emotion_classification.ipynb
 
 The trained model is in finalized_model.sav
